@@ -1,0 +1,1 @@
+Turn off pre-commit's autofix PRs and change autoupdate schedule to quarterly.
